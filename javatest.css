@@ -1,0 +1,18 @@
+.button{
+background-color: black;
+color: white;
+padding: 10px 30px;
+border-radius: 30px;
+transition: all 1s ease;
+}
+.button:hover{
+    transition: all 1s ease;
+    scale: 0.9;
+}
+.input{
+    width: 200px;
+    border-radius: 12px;
+    padding: 10px;
+    height: 24px;
+    font-size: 23px;
+}
